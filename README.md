@@ -1,5 +1,7 @@
 # Pico BLE Remote Pilot
 
+URL du projet : https://github.com/CLT-38/bleconnect-pico
+
 Ce projet transforme un Raspberry Pi Pico W en un client Bluetooth Low Energy (BLE) capable de se connecter à un périphérique spécifique (comme un robot) et de lui envoyer une séquence de commandes.
 
 ## Matériel requis
